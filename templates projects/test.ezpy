@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="controls_repeat_ext" id="!SGe)qE|YRjC_FVzNl$V" x="250" y="230">
+    <value name="TIMES">
+      <block type="math_number" id="Annued]^72LVe(;68OeT">
+        <field name="NUM">5</field>
+      </block>
+    </value>
+    <statement name="DO">
+      <block type="text_print" id="S#ast,[Z4@DE*3Ew-HLp">
+        <value name="TEXT">
+          <block type="text" id="l)*k)tp0gLL`M!l{}Dqt">
+            <field name="TEXT">test</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
